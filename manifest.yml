@@ -1,0 +1,7 @@
+applications:
+- name: java-ms-64
+  memory: 512M
+  random-route: true
+  instances: 1
+  buildpack: liberty-for-java
+  timeout: 180

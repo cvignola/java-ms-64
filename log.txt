@@ -1,0 +1,400 @@
+Options : {
+  "headless": "true",
+  "debug": "true",
+  "createType": "microservice",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  },
+  "skip-cache": true,
+  "env": {
+    "domain": null,
+    "_events": {},
+    "_eventsCount": 0,
+    "arguments": [],
+    "options": {},
+    "adapter": {
+      "cwd": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664"
+    },
+    "cwd": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664",
+    "store": {
+      "_generators": {},
+      "_meta": {
+        "@arf/java:app": {
+          "resolved": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/index.js",
+          "namespace": "@arf/java:app"
+        }
+      }
+    },
+    "runLoop": {
+      "queueNames": [
+        "initializing",
+        "prompting",
+        "configuring",
+        "default",
+        "writing",
+        "conflicts",
+        "install",
+        "end"
+      ],
+      "__queues__": {
+        "initializing": {
+          "__queue__": []
+        },
+        "prompting": {
+          "__queue__": []
+        },
+        "configuring": {
+          "__queue__": []
+        },
+        "default": {
+          "__queue__": []
+        },
+        "writing": {
+          "__queue__": []
+        },
+        "conflicts": {
+          "__queue__": []
+        },
+        "install": {
+          "__queue__": []
+        },
+        "end": {
+          "__queue__": []
+        }
+      },
+      "_maxListeners": 0
+    },
+    "sharedFs": {
+      "domain": null,
+      "_events": {},
+      "_eventsCount": 0,
+      "_maxListeners": 0
+    },
+    "lookups": [
+      ".",
+      "generators",
+      "lib/generators"
+    ],
+    "aliases": [
+      {
+        "match": {},
+        "value": "$1:app"
+      }
+    ]
+  },
+  "resolved": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/index.js",
+  "namespace": "@arf/java:app",
+  "_": [],
+  "skip-install": false,
+  "buildType": "maven",
+  "appName": "LibertyProject",
+  "artifactId": "example",
+  "groupId": "liberty.projects",
+  "version": "1.0-SNAPSHOT"
+}[
+  "headless",
+  "debug",
+  "createType",
+  "bluemix",
+  "skip-cache",
+  "env",
+  "resolved",
+  "namespace",
+  "_",
+  "help",
+  "h",
+  "skip-install",
+  "buildType",
+  "appName",
+  "artifactId",
+  "groupId",
+  "version",
+  "input"
+]
+Config (default) : {
+  "appName": "myLibertyProject",
+  "buildType": "maven",
+  "artifactId": "artifactId",
+  "groupId": "groupId",
+  "version": "1.0",
+  "headless": "false",
+  "createType": "rest",
+  "debug": "false"
+}[
+  "appName",
+  "buildType",
+  "artifactId",
+  "groupId",
+  "version",
+  "headless",
+  "createType",
+  "debug",
+  "bluemix",
+  "input"
+]
+Config : {
+  "appName": "LibertyProject",
+  "buildType": "maven",
+  "artifactId": "example",
+  "groupId": "liberty.projects",
+  "version": "1.0-SNAPSHOT",
+  "headless": "true",
+  "createType": "microservice",
+  "debug": "true",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  },
+  "templateName": "microservice",
+  "templateRoot": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates",
+  "projectPath": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664"
+}[
+  "appName",
+  "buildType",
+  "artifactId",
+  "groupId",
+  "version",
+  "headless",
+  "createType",
+  "debug",
+  "bluemix",
+  "input",
+  "templateName",
+  "templateRoot",
+  "projectPath"
+]
+Answers : {
+  "headless": "true",
+  "debug": "true",
+  "createType": "microservice",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  }
+}[
+  "headless",
+  "debug",
+  "createType",
+  "bluemix"
+]
+Config (after answers) : {
+  "appName": "java-ms-64",
+  "buildType": "maven",
+  "artifactId": "java-ms-64",
+  "groupId": "liberty.projects",
+  "version": "1.0-SNAPSHOT",
+  "headless": "true",
+  "createType": "microservice",
+  "debug": "true",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  },
+  "templateName": "microservice",
+  "templateRoot": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates",
+  "projectPath": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664"
+}[
+  "appName",
+  "buildType",
+  "artifactId",
+  "groupId",
+  "version",
+  "headless",
+  "createType",
+  "debug",
+  "bluemix",
+  "input",
+  "templateName",
+  "templateRoot",
+  "projectPath"
+]
+template path : microservice
+project path : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664
+Destination path : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664
+Config data for controlBlock : {
+  "appName": "java-ms-64",
+  "buildType": "maven",
+  "artifactId": "java-ms-64",
+  "groupId": "liberty.projects",
+  "version": "1.0-SNAPSHOT",
+  "headless": "true",
+  "createType": "microservice",
+  "debug": "true",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  },
+  "templateName": "microservice",
+  "templateRoot": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates",
+  "projectPath": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664"
+}[
+  "appName",
+  "buildType",
+  "artifactId",
+  "groupId",
+  "version",
+  "headless",
+  "createType",
+  "debug",
+  "bluemix",
+  "input",
+  "templateName",
+  "templateRoot",
+  "projectPath"
+]
+Control data : {
+  "excludes": [
+    ".classpath",
+    ".project",
+    "build.gradle"
+  ],
+  "excludesDir": [
+    "target",
+    ".settings"
+  ],
+  "composition": [
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/basic",
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/microservice"
+  ]
+}[
+  "excludes",
+  "excludesDir",
+  "composition"
+]
+Processor : {
+  "paths": [
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/basic",
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/microservice"
+  ]
+}[
+  "paths",
+  "scan",
+  "getContentsSync"
+]
+Config data for controlBlock : {
+  "appName": "java-ms-64",
+  "buildType": "maven",
+  "artifactId": "java-ms-64",
+  "groupId": "liberty.projects",
+  "version": "1.0-SNAPSHOT",
+  "headless": "true",
+  "createType": "microservice",
+  "debug": "true",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  },
+  "templateName": "microservice",
+  "templateRoot": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates",
+  "projectPath": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664"
+}[
+  "appName",
+  "buildType",
+  "artifactId",
+  "groupId",
+  "version",
+  "headless",
+  "createType",
+  "debug",
+  "bluemix",
+  "input",
+  "templateName",
+  "templateRoot",
+  "projectPath"
+]
+Control data : {
+  "excludes": [
+    "build.gradle"
+  ],
+  "composition": [
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/microservice"
+  ]
+}[
+  "excludes",
+  "composition"
+]
+Config data for controlBlock : {
+  "appName": "java-ms-64",
+  "buildType": "maven",
+  "artifactId": "java-ms-64",
+  "groupId": "liberty.projects",
+  "version": "1.0-SNAPSHOT",
+  "headless": "true",
+  "createType": "microservice",
+  "debug": "true",
+  "bluemix": {
+    "name": "java-ms-64",
+    "sdks": [],
+    "userEmail": "cvignola@us.ibm.com",
+    "backendPlatform": "JAVA"
+  },
+  "templateName": "microservice",
+  "templateRoot": "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates",
+  "projectPath": "/tmp/3dd56d1a-b550-4ea5-9252-93a896696664"
+}[
+  "appName",
+  "buildType",
+  "artifactId",
+  "groupId",
+  "version",
+  "headless",
+  "createType",
+  "debug",
+  "bluemix",
+  "input",
+  "templateName",
+  "templateRoot",
+  "projectPath"
+]
+Control data : {
+  "excludes": [
+    ".classpath",
+    ".project",
+    "build.gradle"
+  ],
+  "excludesDir": [
+    "target",
+    ".settings"
+  ],
+  "composition": [
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/basic",
+    "/home/vcap/app/generators/@arf-generator-java/latest/node_modules/@arf/generator-java/generators/app/templates/microservice"
+  ]
+}[
+  "excludes",
+  "excludesDir",
+  "composition"
+]
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/.cfignore
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/.npmignore
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/Dockerfile
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/Dockerfile-tools
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/cli-config.yml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/kube.deploy.yml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/manifest.yml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/pom.xml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/README.md
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/pom.xml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/.bluemix/deploy.json
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/.bluemix/toolchain.yml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/.bluemix/pipeline.yml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/main/liberty/config/server.xml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/main/webapp/WEB-INF/beans.xml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/main/webapp/WEB-INF/ibm-web-ext.xml
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/test/java/it/HealthEndpointTest.java
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/main/java/application/rest/HealthEndpoint.java
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/main/java/application/rest/JaxrsApplication.java
+CB : writing to : /tmp/3dd56d1a-b550-4ea5-9252-93a896696664/src/main/java/application/rest/v1/Example.java

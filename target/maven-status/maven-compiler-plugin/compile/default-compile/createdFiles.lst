@@ -1,0 +1,3 @@
+application/rest/HealthEndpoint.class
+application/rest/JaxrsApplication.class
+application/rest/v1/Example.class

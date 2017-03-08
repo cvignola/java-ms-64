@@ -1,0 +1,15 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+objc[80702]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin/java (0x1020fb4c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x1021f54e0). One of the two will be used. Which one is undefined.
+Launching defaultServer (WebSphere Application Server 16.0.0.4/wlp-1.0.15.cl160420161113-0206) on Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121-b13 (en_US)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[AUDIT   ] CWWKE0100I: This product is licensed for development, and limited production use. The full license terms can be viewed here: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/license/base_ilan/ilan/16.0.0.4/lafiles/en.html
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications. 
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://christophersmbp:9080/java-ms-64/
+[AUDIT   ] CWWKZ0001I: Application java-ms-64-1.0-SNAPSHOT started in 0.877 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [servlet-3.1, jndi-1.0, json-1.0, cdi-1.2, jsonp-1.0, jaxrs-2.0, jaxrsClient-2.0].
+[AUDIT   ] CWWKF0011I: The server defaultServer is ready to run a smarter planet.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Wednesday, March 8, 2017 at 3:25 PM. The server defaultServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://christophersmbp:9080/java-ms-64/
+[AUDIT   ] CWWKZ0009I: The application java-ms-64-1.0-SNAPSHOT has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server defaultServer stopped after 13.495 seconds.
